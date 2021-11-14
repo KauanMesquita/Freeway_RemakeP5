@@ -1,4 +1,4 @@
-//váriaveis do ator
+//váriaveis do sirizin
 let xSirizin = 106;
 let ySirizin =  367;
 let colisao = false;
